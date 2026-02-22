@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://0xthiagoamaral.github.io'
-baseurl:          '/game-hacking-pt'
+url:              'https://redflagcheat.tech'
+baseurl:          ''
 rss:              RSS
 
 toc:
