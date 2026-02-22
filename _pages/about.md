@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre
 author: attilathedud
 date: 2023-12-24
 category: 
@@ -7,18 +7,19 @@ layout: post
 permalink: /
 ---
 
-Game hacking allows you to add functionality and change how games work.
-Whether your goal is to add a new unit to an RTS game or create an aimbot
-for a FPS game, Game Hacking Academy has lessons to learn along
-with.
+O game hacking permite que você adicione funcionalidades e mude a forma como os jogos funcionam.
+Seja para adicionar uma nova unidade a um jogo de estratégia ou criar um aimbot para um FPS, a
+**Academia de Game Hacking** tem aulas para você aprender passo a passo.
 
-The lessons presented here contain a combination of general information on topics and walkthroughs of creating hacks, with pictures and explanations. The lessons build off of previous entries but will still make sense in whatever order you want to explore.
-      
-A PDF of all the content on the site is available <a href="assets/GameHackingAcademy.pdf" target="_blank">here.</a> This PDF is not updated with each change to the site and may differ slightly from the site.
+Pense assim: por baixo dos gráficos bonitos e da história envolvente, todo jogo é um programa de computador. E assim como qualquer programa, ele pode ser entendido e modificado — desde que você saiba onde e como mexer.
+
+As aulas aqui combinam explicações teóricas com tutoriais práticos, com imagens e passo a passo. Cada aula se apoia nas anteriores, mas ainda fazem sentido de forma independente — você pode explorar na ordem que preferir.
+
+Um PDF com todo o conteúdo do site está disponível <a href="assets/GameHackingAcademy.pdf" target="_blank">aqui.</a> O PDF pode não estar sempre atualizado com as últimas mudanças do site.
 
 # GitHub
 
-All the code used on the site is available on GitHub. 
+Todo o código usado no site está disponível no GitHub. 
 
 <div style="font-size: 5em; text-align: center;">
   <a href="https://github.com/GameHackingAcademy">
@@ -28,7 +29,7 @@ All the code used on the site is available on GitHub.
 
 # Twitter/X
 
-Updates are posted on Twitter/X.
+Atualizações são publicadas no Twitter/X.
 
 <div style="font-size: 5em; text-align: center;">
   <a href="https://twitter.com/GameHackingAcad">
@@ -38,7 +39,7 @@ Updates are posted on Twitter/X.
 
 # Discord
 
-The Discord server hosts several communities focused on game hacking.
+O servidor do Discord reúne várias comunidades focadas em game hacking.
 
 <div style="font-size: 5em; text-align: center;">
   <a href="https://discord.gg/VdTRNA8">

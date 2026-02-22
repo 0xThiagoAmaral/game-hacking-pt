@@ -1,16 +1,16 @@
 # Configurations
-title:            Game Hacking Academy
-longtitle:        Game Hacking Academy
+title:            Academia de Game Hacking
+longtitle:        Academia de Game Hacking
 author:           attilathedud
 email:            attilathedud@gmail.com
 description: >
-  Game hacking tutorials and lessons.
+  Tutoriais e aulas de game hacking em português. Aprenda do zero a criar hacks para jogos.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://gamehacking.academy'
-baseurl:          ''
+url:              'https://0xthiagoamaral.github.io'
+baseurl:          '/game-hacking-pt'
 rss:              RSS
 
 toc:
