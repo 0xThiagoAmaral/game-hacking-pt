@@ -7,43 +7,28 @@ layout: post
 permalink: /
 ---
 
-O game hacking permite que você adicione funcionalidades e mude a forma como os jogos funcionam.
-Seja para adicionar uma nova unidade a um jogo de estratégia ou criar um aimbot para um FPS, a
-**Academia de Game Hacking** tem aulas para você aprender passo a passo.
+# Bem-vindo à Academia de Game Hacking
 
-Pense assim: por baixo dos gráficos bonitos e da história envolvente, todo jogo é um programa de computador. E assim como qualquer programa, ele pode ser entendido e modificado — desde que você saiba onde e como mexer.
+A **Academia de Game Hacking** é uma plataforma educacional gratuita e de código aberto dedicada ao estudo técnico de jogos digitais. Nosso objetivo é tornar o conhecimento de engenharia reversa e modificação de jogos acessível a qualquer pessoa, independentemente do nível de experiência.
 
-As aulas aqui combinam explicações teóricas com tutoriais práticos, com imagens e passo a passo. Cada aula se apoia nas anteriores, mas ainda fazem sentido de forma independente — você pode explorar na ordem que preferir.
+## O que você vai aprender
 
-Um PDF com todo o conteúdo do site está disponível <a href="assets/GameHackingAcademy.pdf" target="_blank">aqui.</a> O PDF pode não estar sempre atualizado com as últimas mudanças do site.
+Todo jogo é, no fundo, um programa de computador. Isso significa que ele pode ser compreendido, analisado e modificado — desde que você saiba onde e como agir. Aqui você aprenderá:
 
-# GitHub
+- **Fundamentos de computação** — como a CPU, memória e sistemas operacionais funcionam
+- **Leitura de assembly** — a linguagem que o processador realmente executa
+- **Engenharia reversa** — como analisar programas sem acesso ao código-fonte
+- **Manipulação de memória** — como ler e escrever valores em tempo real
+- **Desenvolvimento de hacks** — desde cheats simples até ferramentas avançadas
 
-Todo o código usado no site está disponível no GitHub. 
+## Como o conteúdo está organizado
 
-<div style="font-size: 5em; text-align: center;">
-  <a href="https://github.com/GameHackingAcademy">
-    <i class="fa fa-github"></i>
-  </a>
-</div>
+As aulas seguem uma progressão lógica: cada módulo se apoia nos anteriores, mas ainda faz sentido de forma independente. Você pode estudar na ordem que preferir — seja do início ao fim ou indo direto ao tópico de seu interesse.
 
-# Twitter/X
+O conteúdo combina explicações teóricas com tutoriais práticos, exemplos de código comentados e imagens ilustrativas.
 
-Atualizações são publicadas no Twitter/X.
+## Para quem é este curso
 
-<div style="font-size: 5em; text-align: center;">
-  <a href="https://twitter.com/GameHackingAcad">
-    <i class="fa fa-twitter"></i>
-  </a>
-</div>
+Este material é voltado para desenvolvedores, estudantes de segurança da informação e entusiastas que desejam entender como os jogos funcionam internamente. O foco é **educacional**: o conhecimento adquirido aqui pode ser aplicado em CTFs, pesquisa de segurança e desenvolvimento de ferramentas legítimas.
 
-# Discord
-
-O servidor do Discord reúne várias comunidades focadas em game hacking.
-
-<div style="font-size: 5em; text-align: center;">
-  <a href="https://discord.gg/VdTRNA8">
-    <img alt="Discord" src="/assets/images/discord.png" />
-  </a>
-</div>
-  
+&nbsp;
